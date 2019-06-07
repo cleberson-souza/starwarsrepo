@@ -1,6 +1,6 @@
 # starwarsrepo
 
-![/home/bim/starwarsrepo/git-github.png](image git)
+![/home/bim/starwarsrepo/git-github.png]
 
 topzeira da balada.
 aulas top demais
